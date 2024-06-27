@@ -1,0 +1,14 @@
+You want to use a text2image generation model to create a diverse set of textures for a 2d gridworld-like game. The goal of the game is for the player to move the character to the goal location in the gridworld. The agent cannot move if there is a wall on the way.
+There are 4 types of objects in the game (4 different textures): empty, agent, goal, wall
+
+Generate a diverse set of 10 themes for possible games
+
+Example of prompts for a theme:
+{
+    "medieval": {
+    "agent": "a knight, simple background",
+    "goal": "a treasure chest, simple background, no character",
+    "wall": "dark cobblestone wall",
+    "empty": "grass texture"
+    }
+}

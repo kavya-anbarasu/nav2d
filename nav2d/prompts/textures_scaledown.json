@@ -1,0 +1,8 @@
+{
+    "cyberpunk": {
+        "agent": "Close-up of a futuristic agent, upper torso and head, featuring cybernetic enhancements and neon accents. Agent's suit is streamlined with contrasting highlights for visibility. Style: 2D pixel art, blues and purples.",
+        "wall": "Digital wall with large, clear cybernetic patterns and bold glowing lines. Designed for seamless tiling and reduced detail for better downscaling. Style: 2D pixel art, dark tones with bright neon like blues and pinks.",
+        "goal": "Simplified portal with large, dynamic neon swirls and holographic archway. High-contrast, minimal design to draw attention at smaller scales. Style: 2D pixel art, cyan and magenta.",
+        "empty": "Floor with broad, muted neon tracings creating a grid pattern. Minimal digital effects, designed for seamless tiling and clarity at smaller sizes. Style: 2D pixel art, greys with muted neon accents."
+    }
+}

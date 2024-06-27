@@ -1,0 +1,62 @@
+{
+    "medieval": {
+        "agent": "A knight in armor, simple backdrop",
+        "goal": "A treasure chest, isolated on a simple background",
+        "wall": "Dark cobblestone texture",
+        "empty": "Grass field texture"
+    },
+    "futuristic": {
+        "agent": "A sleek, silver robot",
+        "goal": "A glowing holographic portal",
+        "wall": "Smooth metallic panels",
+        "empty": "Dark grid with neon accents"
+    },
+    "desert_oasis": {
+        "agent": "A camel with a saddle, simple desert background",
+        "goal": "An ancient well filled with water",
+        "wall": "Sandstone blocks",
+        "empty": "Sandy ground texture"
+    },
+    "underwater": {
+        "agent": "A scuba diver with gear",
+        "goal": "A sunken pirate treasure chest",
+        "wall": "Coral reef barriers",
+        "empty": "Seabed sand with small shells"
+    },
+    "spooky": {
+        "agent": "A ghost with a translucent appearance",
+        "goal": "An old, mysterious book on a pedestal",
+        "wall": "Dark, ivy-covered stone walls",
+        "empty": "Misty ground with scattered leaves"
+    },
+    "jungle": {
+        "agent": "An explorer with a hat and backpack",
+        "goal": "A golden idol on a stone altar",
+        "wall": "Thick bamboo stalks",
+        "empty": "Leaf-covered forest floor"
+    },
+    "ice_world": {
+        "agent": "A penguin sliding on its belly",
+        "goal": "A fishing hole in the ice",
+        "wall": "Ice blocks",
+        "empty": "Snowy ground with light snowflakes"
+    },
+    "steampunk": {
+        "agent": "A mechanic with goggles and leather attire",
+        "goal": "An intricate gear mechanism",
+        "wall": "Brass pipes and steam vents",
+        "empty": "Cobblestone with steam patches"
+    },
+    "candy_land": {
+        "agent": "A gingerbread man",
+        "goal": "A giant cupcake with a cherry on top",
+        "wall": "Walls made of candy canes",
+        "empty": "A floor of sprinkles"
+    },
+    "dystopian_ruins": {
+        "agent": "A survivor with rugged, post-apocalyptic gear",
+        "goal": "A radio transmitter",
+        "wall": "Crumbled concrete blocks with graffiti",
+        "empty": "Cracked earth with sparse vegetation"
+    }
+}

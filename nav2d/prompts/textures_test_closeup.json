@@ -1,0 +1,8 @@
+{
+    "desert": {
+        "empty": "A seamless, tileable texture representing sandy desert ground, designed for a low-resolution 16x16 pixel grid cell. The texture should be simple yet recognizable as sand.",
+        "agent": "A single close-up pose of a camel rider designed as a sprite for a 16x16 pixel grid cell. Character large within canvas, suitable for a low-resolution game sprite.",
+        "goal": "A seamless, tileable texture representing an oasis with a small pond and palm trees, designed for a low-resolution 16x16 pixel grid cell. The oasis should be a distinct and attractive goal.",
+        "wall": "A seamless, tileable texture of a cactus representing a wall, designed for a low-resolution 16x16 pixel grid cell. The texture should clearly signify an impassable barrier."
+    }
+}

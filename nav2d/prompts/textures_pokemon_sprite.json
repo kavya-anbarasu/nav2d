@@ -1,0 +1,14 @@
+{
+    "medieval": {
+        "agent": "a knight, simple background",
+        "goal": "a treasure chest, simple background, no character",
+        "wall": "dark cobblestone wall",
+        "empty": "grass texture"
+    },
+    "Futuristic Metropolis": {
+        "agent": "a sleek, cybernetic explorer, neon skyline",
+        "goal": "an energy source pod, floating in zero-gravity, backdrop of a space station",
+        "wall": "reflective alloy barrier, partially obscured by stardust",
+        "empty": "iridescent moon dust-covered ground"
+    }
+}

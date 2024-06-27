@@ -1,0 +1,50 @@
+{
+    "arcade": {
+        "empty": "A seamless, tileable texture of neon colored lines on a black background, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a pixelated, retro video game character for a 16x16 pixel grid cell. The character should be colorful and distinct.",
+        "goal": "A seamless, tileable texture of a glowing neon portal, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of bright neon blocks as walls, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "forest": {
+        "empty": "A seamless, tileable texture representing grass, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a forest ranger as a sprite for a 16x16 pixel grid cell. The ranger should be distinguishable and thematic.",
+        "goal": "A seamless, tileable texture of a treasure chest, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of trees representing a wall, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "space": {
+        "empty": "A seamless, tileable texture of a starry space background, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of an astronaut as a sprite for a 16x16 pixel grid cell. The astronaut should be easily identifiable.",
+        "goal": "A seamless, tileable texture of a metallic spaceship door, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of metallic panels as walls, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "medieval": {
+        "empty": "A seamless, tileable texture of cobblestone paths, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a knight as a sprite for a 16x16 pixel grid cell. The knight should be clearly visible and distinct.",
+        "goal": "A seamless, tileable texture of a castle door, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of stone walls, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "underwater": {
+        "empty": "A seamless, tileable texture of sandy ocean floor, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a diver as a sprite for a 16x16 pixel grid cell. The diver should be clear and thematic.",
+        "goal": "A seamless, tileable texture of a treasure chest under water, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of coral as walls, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "desert": {
+        "empty": "A seamless, tileable texture representing sandy desert ground, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a camel rider designed as a sprite for a 16x16 pixel grid cell. The rider should be visible and distinct.",
+        "goal": "A seamless, tileable texture representing an oasis with a small pond and palm trees, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of a cactus representing a wall, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "cyberpunk": {
+        "empty": "A seamless, tileable texture of neon-lit pavement, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a cyber-agent as a sprite for a 16x16 pixel grid cell. The agent should look futuristic and unique.",
+        "goal": "A seamless, tileable texture of a glowing cyber portal, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of holographic barriers as walls, designed for a low-resolution 16x16 pixel grid cell."
+    },
+    "winter": {
+        "empty": "A seamless, tileable texture of snowy ground, designed for a low-resolution 16x16 pixel grid cell.",
+        "agent": "A single pose of a snowman as a sprite for a 16x16 pixel grid cell. The snowman should be cheerful and clear.",
+        "goal": "A seamless, tileable texture of a Christmas tree, designed for a low-resolution 16x16 pixel grid cell.",
+        "wall": "A seamless, tileable texture of ice blocks as walls, designed for a low-resolution 16x16 pixel grid cell."
+    }
+}

@@ -1,0 +1,622 @@
+{
+    "Medieval Castle": [
+        {
+            "agent": "a knight in armor, simple background",
+            "goal": "a crown on a pillow, simple background",
+            "wall": "stone brick wall",
+            "empty": "wooden floor"
+        },
+        {
+            "agent": "a wizard with a staff, simple background",
+            "goal": "a magic book, glowing aura",
+            "wall": "moss-covered stones",
+            "empty": "dungeon floor"
+        },
+        {
+            "agent": "an archer, simple background",
+            "goal": "a quiver of arrows, simple background",
+            "wall": "wooden barricade",
+            "empty": "castle courtyard"
+        },
+        {
+            "agent": "a peasant with a hoe, simple background",
+            "goal": "a basket of vegetables, simple background",
+            "wall": "wattle and daub wall",
+            "empty": "muddy path"
+        },
+        {
+            "agent": "a princess, elegant gown",
+            "goal": "a royal scepter, jeweled",
+            "wall": "ornate tapestry wall",
+            "empty": "red carpet"
+        },
+        {
+            "agent": "a blacksmith with hammer, simple background",
+            "goal": "an anvil, simple background",
+            "wall": "iron-barred wall",
+            "empty": "stone slab floor"
+        },
+        {
+            "agent": "a bard with a lute, simple background",
+            "goal": "a music stand with sheet music, simple background",
+            "wall": "wood-paneled wall",
+            "empty": "inn tavern floor"
+        },
+        {
+            "agent": "a squire, simple armor",
+            "goal": "a knight's shield, simple background",
+            "wall": "fortified stone wall",
+            "empty": "gravel path"
+        },
+        {
+            "agent": "a sorceress, flowing robes",
+            "goal": "a crystal ball, mystical aura",
+            "wall": "enchanted ivy-covered wall",
+            "empty": "mystical runes floor"
+        },
+        {
+            "agent": "a royal guard, uniformed",
+            "goal": "a royal decree, wax-sealed",
+            "wall": "castle ramparts",
+            "empty": "flagstone pathway"
+        }
+    ],
+    "Futuristic City": [
+        {
+            "agent": "a robot, sleek design",
+            "goal": "a data chip, glowing",
+            "wall": "neon-lit panel",
+            "empty": "metallic grid"
+        },
+        {
+            "agent": "a cyborg, armored",
+            "goal": "an energy core, pulsating",
+            "wall": "transparent glass",
+            "empty": "holographic floor"
+        },
+        {
+            "agent": "a drone, hovering",
+            "goal": "a satellite dish, high-tech",
+            "wall": "solar panel wall",
+            "empty": "urban asphalt"
+        },
+        {
+            "agent": "a hacker, masked",
+            "goal": "a server rack, blinking lights",
+            "wall": "data stream wallpaper",
+            "empty": "digital matrix"
+        },
+        {
+            "agent": "a scientist, lab coat",
+            "goal": "a microchip, delicate",
+            "wall": "lab containment unit",
+            "empty": "clean room floor"
+        },
+        {
+            "agent": "a police officer, tactical gear",
+            "goal": "a confiscated weapon, secured",
+            "wall": "reinforced steel door",
+            "empty": "police line tape"
+        },
+        {
+            "agent": "a racer, streamlined suit",
+            "goal": "a trophy, shimmering",
+            "wall": "advertising billboard",
+            "empty": "race track"
+        },
+        {
+            "agent": "an alien, exotic",
+            "goal": "a teleportation device, alien technology",
+            "wall": "bioluminescent organism wall",
+            "empty": "extraterrestrial surface"
+        },
+        {
+            "agent": "a rebel, gritty",
+            "goal": "a propaganda poster, revolutionary",
+            "wall": "barricade with graffiti",
+            "empty": "abandoned street"
+        },
+        {
+            "agent": "a CEO, stylish",
+            "goal": "a contract, lucrative",
+            "wall": "high-rise office window",
+            "empty": "executive office floor"
+        }
+    ],
+    "Jungle Ruins": [
+        {
+            "agent": "an explorer, rugged",
+            "goal": "a golden idol, mysterious",
+            "wall": "vine-covered ruins",
+            "empty": "leafy undergrowth"
+        },
+        {
+            "agent": "a treasure hunter, equipped",
+            "goal": "a map, ancient",
+            "wall": "stone relief carvings",
+            "empty": "jungle dirt path"
+        },
+        {
+            "agent": "a native warrior, tribal",
+            "goal": "a ritual mask, sacred",
+            "wall": "bamboo fence",
+            "empty": "sandy clearing"
+        },
+        {
+            "agent": "a biologist, camouflaged",
+            "goal": "a rare orchid, blooming",
+            "wall": "thick tree trunk",
+            "empty": "mossy ground"
+        },
+        {
+            "agent": "an archaeologist, scholarly",
+            "goal": "a pottery shard, historical",
+            "wall": "collapsed temple wall",
+            "empty": "archaeological dig site"
+        },
+        {
+            "agent": "a poacher, stealthy",
+            "goal": "a rhino horn, illegal",
+            "wall": "poacher's camp",
+            "empty": "dense foliage"
+        },
+        {
+            "agent": "a shaman, mystical",
+            "goal": "a healing herb, powerful",
+            "wall": "ritual stone circle",
+            "empty": "spiritual site"
+        },
+        {
+            "agent": "a photographer, focused",
+            "goal": "a waterfall, breathtaking",
+            "wall": "rocky cliff",
+            "empty": "forest stream"
+        },
+        {
+            "agent": "a survivalist, prepared",
+            "goal": "a survival kit, essential",
+            "wall": "makeshift shelter",
+            "empty": "wild jungle"
+        },
+        {
+            "agent": "a filmmaker, adventurous",
+            "goal": "a film camera, vintage",
+            "wall": "abandoned campsite",
+            "empty": "forgotten trail"
+        }
+    ],
+    "Arctic Expedition": [
+        {
+            "agent": "a mountaineer, bundled up",
+            "goal": "a flag, planted",
+            "wall": "ice wall",
+            "empty": "snowy ground"
+        },
+        {
+            "agent": "a polar bear, white fur",
+            "goal": "a fish, frozen",
+            "wall": "snowdrift",
+            "empty": "icy patch"
+        },
+        {
+            "agent": "a scientist, thermal gear",
+            "goal": "a weather station, operational",
+            "wall": "glacier cliff",
+            "empty": "frosty air"
+        },
+        {
+            "agent": "a sled dog, alert",
+            "goal": "a sled, parked",
+            "wall": "wooden cabin",
+            "empty": "blizzard trail"
+        },
+        {
+            "agent": "an explorer, equipped",
+            "goal": "a journal, historic",
+            "wall": "abandoned equipment",
+            "empty": "polar night"
+        },
+        {
+            "agent": "a penguin, curious",
+            "goal": "an egg, protected",
+            "wall": "rocky outcrop",
+            "empty": "nesting area"
+        },
+        {
+            "agent": "a photographer, camouflaged",
+            "goal": "an aurora, glowing",
+            "wall": "ice cave",
+            "empty": "starlit sky"
+        },
+        {
+            "agent": "a researcher, focused",
+            "goal": "a sample, rare",
+            "wall": "research outpost",
+            "empty": "tundra"
+        },
+        {
+            "agent": "a survivalist, rugged",
+            "goal": "a fire pit, smoldering",
+            "wall": "snow fort",
+            "empty": "wind-swept plain"
+        },
+        {
+            "agent": "a seal, sleek",
+            "goal": "a clump of seaweed, nutritional",
+            "wall": "iceberg",
+            "empty": "frozen sea"
+        }
+    ],
+    "Underwater Atlantis": [
+        {
+            "agent": "a diver, sleek suit",
+            "goal": "a sunken treasure, sparkling",
+            "wall": "coral reef",
+            "empty": "clear water"
+        },
+        {
+            "agent": "a mermaid, shimmering",
+            "goal": "a trident, ancient",
+            "wall": "undersea palace",
+            "empty": "sandy bottom"
+        },
+        {
+            "agent": "a submarine, yellow",
+            "goal": "a lost artifact, enigmatic",
+            "wall": "shipwreck",
+            "empty": "deep sea"
+        },
+        {
+            "agent": "a shark, predatory",
+            "goal": "a fish school, swirling",
+            "wall": "kelp forest",
+            "empty": "marine currents"
+        },
+        {
+            "agent": "a biologist, in gear",
+            "goal": "a rare coral, colorful",
+            "wall": "sea cave",
+            "empty": "ocean floor"
+        },
+        {
+            "agent": "a treasure hunter, determined",
+            "goal": "an ancient coin, gleaming",
+            "wall": "submerged columns",
+            "empty": "aquatic ruins"
+        },
+        {
+            "agent": "a sea turtle, ancient",
+            "goal": "a jellyfish, glowing",
+            "wall": "bubble streams",
+            "empty": "seagrass meadow"
+        },
+        {
+            "agent": "an octopus, clever",
+            "goal": "a hidden cave, secret",
+            "wall": "volcanic vent",
+            "empty": "silt bed"
+        },
+        {
+            "agent": "a researcher, probing",
+            "goal": "a data logger, submerged",
+            "wall": "plastic debris",
+            "empty": "polluted area"
+        },
+        {
+            "agent": "a pirate, ghostly",
+            "goal": "a cursed amulet, ominous",
+            "wall": "barnacle-encrusted hull",
+            "empty": "misty waters"
+        }
+    ],
+    "Desert Oasis": [
+        {
+            "agent": "a camel, patient",
+            "goal": "a water spring, refreshing",
+            "wall": "sand dune",
+            "empty": "desert sand"
+        },
+        {
+            "agent": "a nomad, weathered",
+            "goal": "a tent, sheltering",
+            "wall": "palm tree",
+            "empty": "oasis water"
+        },
+        {
+            "agent": "an archaeologist, dusty",
+            "goal": "an ancient tablet, inscribed",
+            "wall": "stone ruins",
+            "empty": "archaeological site"
+        },
+        {
+            "agent": "a merchant, bartering",
+            "goal": "a rug, intricately woven",
+            "wall": "market stall",
+            "empty": "bazaar pathway"
+        },
+        {
+            "agent": "a falcon, sharp-eyed",
+            "goal": "a perch, high",
+            "wall": "rocky ledge",
+            "empty": "airy skies"
+        },
+        {
+            "agent": "a explorer, sunburned",
+            "goal": "a compass, guiding",
+            "wall": "mirage",
+            "empty": "heat haze"
+        },
+        {
+            "agent": "a scorpion, stealthy",
+            "goal": "a burrow, hidden",
+            "wall": "cacti cluster",
+            "empty": "sandy terrain"
+        },
+        {
+            "agent": "a miner, rugged",
+            "goal": "a vein of gold, lucrative",
+            "wall": "mine shaft",
+            "empty": "rocky outcrop"
+        },
+        {
+            "agent": "a historian, knowledgeable",
+            "goal": "a scroll, ancient",
+            "wall": "clay hut",
+            "empty": "village square"
+        },
+        {
+            "agent": "a lizard, quick",
+            "goal": "an insect, buzzing",
+            "wall": "sun-baked stone",
+            "empty": "shadowy nook"
+        }
+    ],
+    "Haunted Mansion": [
+        {
+            "agent": "a ghost, translucent",
+            "goal": "a secret diary, hidden",
+            "wall": "cobwebbed wall",
+            "empty": "creaky floorboards"
+        },
+        {
+            "agent": "a vampire, cloaked",
+            "goal": "a coffin, ancient",
+            "wall": "gothic archway",
+            "empty": "dimly lit corridor"
+        },
+        {
+            "agent": "a detective, observant",
+            "goal": "a clue, cryptic",
+            "wall": "bookshelf, secret passage",
+            "empty": "study room"
+        },
+        {
+            "agent": "a witch, brooding",
+            "goal": "a cauldron, bubbling",
+            "wall": "stone fireplace",
+            "empty": "alchemy lab"
+        },
+        {
+            "agent": "a spirit, mournful",
+            "goal": "a portrait, sorrowful",
+            "wall": "stained glass window",
+            "empty": "grand hall"
+        },
+        {
+            "agent": "a butler, mysterious",
+            "goal": "a key, ornate",
+            "wall": "servant's quarters",
+            "empty": "dusty library"
+        },
+        {
+            "agent": "a curse breaker, brave",
+            "goal": "a talisman, protective",
+            "wall": "iron gate",
+            "empty": "overgrown garden"
+        },
+        {
+            "agent": "a medium, sensitive",
+            "goal": "a spirit board, eerie",
+            "wall": "candle-lit room",
+            "empty": "seance circle"
+        },
+        {
+            "agent": "a historian, curious",
+            "goal": "a manuscript, forgotten",
+            "wall": "hidden compartment",
+            "empty": "archived chamber"
+        },
+        {
+            "agent": "a cat, black",
+            "goal": "a mouse, elusive",
+            "wall": "attic space",
+            "empty": "moonlit balcony"
+        }
+    ],
+    "Space Station": [
+        {
+            "agent": "an astronaut, geared",
+            "goal": "a control module, critical",
+            "wall": "airlock door",
+            "empty": "zero gravity chamber"
+        },
+        {
+            "agent": "a robot, functional",
+            "goal": "a circuit board, essential",
+            "wall": "bulkhead",
+            "empty": "cargo bay"
+        },
+        {
+            "agent": "an alien, curious",
+            "goal": "a plant specimen, alien",
+            "wall": "viewing window to stars",
+            "empty": "hydroponics garden"
+        },
+        {
+            "agent": "a commander, authoritative",
+            "goal": "a mission log, detailed",
+            "wall": "communication panel",
+            "empty": "briefing room"
+        },
+        {
+            "agent": "a scientist, analytical",
+            "goal": "a new element, undiscovered",
+            "wall": "laboratory equipment",
+            "empty": "experiment station"
+        },
+        {
+            "agent": "a engineer, meticulous",
+            "goal": "a maintenance tool, precise",
+            "wall": "machine room",
+            "empty": "maintenance corridor"
+        },
+        {
+            "agent": "a trader, shrewd",
+            "goal": "a rare metal, valuable",
+            "wall": "trade dock",
+            "empty": "storage containers"
+        },
+        {
+            "agent": "a medic, compassionate",
+            "goal": "a medical kit, advanced",
+            "wall": "med bay",
+            "empty": "recovery ward"
+        },
+        {
+            "agent": "a rebel, defiant",
+            "goal": "a secret data, incriminating",
+            "wall": "surveillance room",
+            "empty": "escape pod bay"
+        },
+        {
+            "agent": "a stowaway, hidden",
+            "goal": "a home planet, distant",
+            "wall": "supply closet",
+            "empty": "narrow passageway"
+        }
+    ],
+    "Steampunk Factory": [
+        {
+            "agent": "an inventor, visionary",
+            "goal": "a blueprint, intricate",
+            "wall": "gear-covered wall",
+            "empty": "steam vents"
+        },
+        {
+            "agent": "a mechanic, greasy",
+            "goal": "a cogwheel, massive",
+            "wall": "boiler room",
+            "empty": "assembly line"
+        },
+        {
+            "agent": "an airship pilot, daring",
+            "goal": "a propeller, functional",
+            "wall": "iron beams",
+            "empty": "hangar bay"
+        },
+        {
+            "agent": "a clockmaker, precise",
+            "goal": "a timepiece, golden",
+            "wall": "clock tower base",
+            "empty": "workshop table"
+        },
+        {
+            "agent": "a baron, aristocratic",
+            "goal": "a contract, lucrative",
+            "wall": "luxurious office",
+            "empty": "factory floor"
+        },
+        {
+            "agent": "a rebel, outspoken",
+            "goal": "a manifesto, bold",
+            "wall": "propaganda posters",
+            "empty": "secret meeting spot"
+        },
+        {
+            "agent": "a child, curious",
+            "goal": "a toy, mechanical",
+            "wall": "toy factory section",
+            "empty": "play area"
+        },
+        {
+            "agent": "a smuggler, sneaky",
+            "goal": "a hidden compartment, clever",
+            "wall": "freight elevator",
+            "empty": "back alley"
+        },
+        {
+            "agent": "a spy, disguised",
+            "goal": "a secret message, encoded",
+            "wall": "surveillance hub",
+            "empty": "control center"
+        },
+        {
+            "agent": "a factory worker, tireless",
+            "goal": "a paycheck, hard-earned",
+            "wall": "production line",
+            "empty": "break room"
+        }
+    ],
+    "Candy Land": [
+        {
+            "agent": "a gingerbread man, cheerful",
+            "goal": "a candy cane, striped",
+            "wall": "chocolate block",
+            "empty": "sugar dust"
+        },
+        {
+            "agent": "a kid, joyful",
+            "goal": "a golden ticket, shiny",
+            "wall": "gumdrop bushes",
+            "empty": "licorice lane"
+        },
+        {
+            "agent": "a sugar fairy, sparkly",
+            "goal": "a magic wand, glittering",
+            "wall": "fondant flowers",
+            "empty": "marshmallow clouds"
+        },
+        {
+            "agent": "a pastry chef, skilled",
+            "goal": "a masterpiece cake, towering",
+            "wall": "candy cane fence",
+            "empty": "frosting ground"
+        },
+        {
+            "agent": "a chocolate bunny, smiling",
+            "goal": "a chocolate egg, hidden",
+            "wall": "jelly bean path",
+            "empty": "cocoa dirt"
+        },
+        {
+            "agent": "a candy maker, inventive",
+            "goal": "a new flavor, delightful",
+            "wall": "peppermint twist",
+            "empty": "tasting room"
+        },
+        {
+            "agent": "an ice cream cat, cool",
+            "goal": "a scoop of ice cream, perfect",
+            "wall": "waffle cone forest",
+            "empty": "melted streams"
+        },
+        {
+            "agent": "a toffee horse, sticky",
+            "goal": "a sugar cube, sweet",
+            "wall": "caramel falls",
+            "empty": "molasses swamp"
+        },
+        {
+            "agent": "a cupcake king, regal",
+            "goal": "royal icing, exquisite",
+            "wall": "sugar palace",
+            "empty": "velvet cake ground"
+        },
+        {
+            "agent": "a lemon drop kid, tangy",
+            "goal": "a sour belt, zesty",
+            "wall": "citrus hedge",
+            "empty": "gummy grass"
+        }
+    ]
+}
