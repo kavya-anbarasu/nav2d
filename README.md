@@ -15,5 +15,3 @@ pip install -e .
 ```
 
 Worked on in collaboration with Nathan Cloos (@nacloos)
-
-Final Paper: [https://github.com/kavya-anbarasu/nav2d/blob/main/6_s986_Final_Project___Navigating_2D_environments.pdf](url)
